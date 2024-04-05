@@ -1,3 +1,5 @@
+Database : MySQL
+Framework : Laravel 11
 how to run this program : 
 - composer install
 - composer update
